@@ -1,4 +1,5 @@
-# Repositorio-de-prueba
+#Spanish/Español
+- Este repositorio contiene archivos de python que pueden ser desde codigo de pruebas, archivos pequeños, proyectos etc.
 
-* Este es el primer repositorio, busco aprender sobre esto y a futuro publicar lo que hago por aca
-* 👍
+#English/Ingles
+-This repository contains python files that are from test files, small codes, proyects, etc.
